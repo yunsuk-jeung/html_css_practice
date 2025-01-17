@@ -1,0 +1,29 @@
+p {
+  /* element selector */
+  text-align: left;
+  color: red;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: red;
+}
+
+#param1 {
+  /*id selector*/
+  text-align: center;
+  color: red;
+}
+
+.center {
+  /* class selector */
+  text-align: center;
+  color: red;
+}
+
+p.center {
+  /* p elements with center class */
+  text-align: center;
+  color: red;
+}
