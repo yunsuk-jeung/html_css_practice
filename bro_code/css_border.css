@@ -1,0 +1,13 @@
+h1 {
+  border: 3px solid red;
+  border-radius: 20px;
+  /* border-radius: 30px; */
+}
+
+p {
+  border-bottom: 3px solid purple;
+  border-top: 3px dashed blue;
+  border-left: 2px dotted yellow;
+  border-right: 4px ridge green;
+  border-radius: 10;
+}
